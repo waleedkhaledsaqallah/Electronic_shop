@@ -1,0 +1,148 @@
+.nav-tabs{
+    padding-top: 7% !important;
+}
+
+.Description{
+    padding: 3rem;
+}
+
+.Description h3{
+    font-size: 16px;
+    font-weight: 600;
+}
+.Description p{
+    font-size: 14px;
+    font-weight: 400;
+}
+.Reviews{
+    padding: 5rem;
+}
+
+.Reviews i{
+    color: #FBB03B;
+}
+.Reviews h2{
+    font-size: 59px;
+    font-weight: 600;
+    color: #000000;
+}
+.Reviews .opinions i{
+    color: #B9B9B9;
+}
+
+.Reviews .opinions h5{
+    display: inline-block;
+    font-size: 12px;
+    font-weight: 400;
+    color: #B9B9B9;
+}
+
+.Reviews .star{
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+.Reviews .star h4{
+    font-size: 12px;
+    font-weight: 400;
+    text-align: center;
+    color: #000000;
+}
+.Reviews .star .line{
+    width: 142px;
+    height: 2px;
+    background-color: #DBDBDB;
+    border-radius: 15px;
+    margin: 0.9rem;
+}
+
+
+.Reviews .star .line .first-line{
+    width: 14px;
+    height: 2px;
+    background-color: #FBB03B;
+    border-radius: 15px;
+}
+
+.Reviews .star .line .second-line{
+    width: 24px;
+    height: 2px;
+    background-color: #FBB03B;
+    border-radius: 15px;
+}
+.Reviews .star .line .third-line{
+    width: 113px;
+    height: 2px;
+    background-color: #FBB03B;
+    border-radius: 15px;
+}
+.Reviews .button-OPINION{
+    padding-left: 5rem;
+    margin-top: 4rem;
+}
+
+.Reviews .button-OPINION button{
+    font-size: 13px;
+    font-weight: 600;
+    color: #000000;
+    width: 189px;
+    height: 49px;
+    background-color: #FBB03B;
+    border-radius: 25px;
+    border: 0;
+    transition: 0.5s;
+}
+
+.Reviews .button-OPINION button:hover{
+    background-color: #ffffff;
+    border: 1px solid #FBB03B;
+}
+.Reviews .card img{
+    width: 40px;
+    height: 40px;
+}
+.Reviews .card .comment h3{
+    font-size: 12px;
+    font-weight: 600;
+    color: #000000;
+    margin-bottom: 0;
+}
+.Reviews .card .comment .price i{
+    font-size: 12px;
+}
+
+.Reviews .card .comment p.text-par{
+    font-size: 12px;
+    font-weight: 400;
+    color: #000000;
+    line-height: 1.4rem;
+    max-width: 500px;
+}
+
+
+ul.nav li button {
+    color: #D4D4D4;
+    width: 189px;
+    height: 49px;
+    text-transform: uppercase;
+}
+ul.nav li button:hover{
+    color: #D4D4D4;
+
+}
+
+ul.nav li button.active {
+    color: #D4D4D4;
+    border: 1.7px solid #FBB03B !important;
+
+}
+
+/* Responsive */
+@media (max-width:992px) {
+    .tab-content .Reviews{
+        padding: 0 !important;
+        }
+        .Reviews .button-OPINION{
+            padding-top: 0 !important;
+        }      
+}

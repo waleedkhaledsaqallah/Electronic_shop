@@ -1,0 +1,32 @@
+@media (max-width: 992px){
+    .carousel{
+    display: none;
+    }
+    .img-bac-responsive{
+    display: block;
+    }
+    .Site-rights{
+    margin-top: 17rem;
+    }
+    .nav-bar-lest .navbar{
+    background-color: white;
+    color: black;
+    }
+    .navbar a{
+    color: black;
+    }
+    .text-Subscription p{
+    display: none;
+    }
+    .inout-email input{
+    margin:0 -150px;
+    display: grid;
+    margin-top: 10px;
+    }
+    #women{
+    margin-top: 15rem;
+    }
+    .img-bac-responsive .imgg{
+    width: 100%;
+    }
+}

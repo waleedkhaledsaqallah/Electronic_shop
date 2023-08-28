@@ -1,0 +1,152 @@
+.login .modal-header button{
+    font-size: 14px;
+}
+.login .modal .modal-dialog .modal-content{
+    width: 437px !important;
+    height: 628px !important;
+}
+.login .modal-body .text-login :nth-child(1){
+    font-size: 22px;
+    font-weight: 600;
+    color: #000000;
+}
+.login .modal-body .text-login :nth-child(2){
+    font-size: 13px;
+    font-weight: 400;
+    color: #7D7D7D;
+    line-height: 1.6rem;
+    margin-top: 1.8rem;
+    margin-bottom: 2.7rem;
+}
+.login .modal-body form :nth-child(1){
+    width: 345px;
+    height: 56px;
+    border: 2px solid #D8D8D8;
+    border-radius: 25px;
+    margin-bottom: 1rem;
+    padding: 0 2.5rem;
+    font-size: 13px;
+    font-weight: 400;
+    color: #808080;
+}
+.login .modal-body .checkbox{
+    gap: 3.5rem;
+}
+
+.login .modal-body .checkbox form{
+    padding-left: 2rem;
+}
+
+.login .modal-body .checkbox form :nth-child(1){
+    width: 25px;
+    height: 29px;
+}
+.login .modal-body .checkbox form :nth-child(2){
+    font-size: 12px;
+    font-weight: 400;
+    color: #000000;
+    margin-bottom: 1rem;
+}
+.login .modal-body .checkbox button{
+    background-color: transparent;
+    border: 0;
+    font-size: 12px;
+    font-weight: 400;
+    color: #808080;
+    padding-bottom: 1rem;
+    transition: 0.4s;
+}
+.login .modal-body .checkbox button:hover{
+    color: #000000;
+}
+.login .modal-body .signup-by{
+    padding-left: 2rem;
+    margin-bottom: 1.3rem;
+}
+
+.login .modal-body .signup-by .facebook{
+    width: 167px;
+    height: 56px;
+    background-color: #3B5998;
+    color: #FFFFFF;
+    font-size: 18px;
+    
+}
+.login .modal-body .signup-by .facebook :nth-child(2){
+    font-size: 13px;
+    font-weight: 600;
+    padding-top: 0.4rem;
+}
+.login .modal-body .signup-by .gamil{
+    width: 167px;
+    height: 56px;
+    background-color: #FFFFFF;
+    border: 2px solid #F1584D;
+    color: #F14336;
+    font-size: 20px;
+    
+}
+.login .modal-body .signup-by .gamil :nth-child(2){
+    font-size: 13px;
+    font-weight: 600;
+    padding-top: 0.4rem;
+    color: #000000;
+}
+.login .modal-body :nth-child(6){
+    width: 345px;
+    height: 56px;
+    background-color: #FBB03B;
+    border: 0;
+    border-radius: 25px;
+    font-size: 13px;
+    font-weight: 600;
+    color: #000000;
+}
+.login .modal-body .footer{
+    margin-top: 1.8rem;
+}
+
+.login .modal-body .footer :nth-child(1){
+    font-size: 13px;
+    font-weight: 400;
+    color: #000000;
+}
+.login .modal-body .footer :nth-child(2){
+    font-size: 13px;
+    font-weight: 600;
+    color: #000000;
+    margin-left: 2.3rem;
+}
+
+.login .modal .modal-2 .modal-content{
+    width: 437px !important;
+    height: 769px !important;
+}
+.login .modal .modal-3 .modal-content{
+    width: 430px !important;
+    height: 500px !important;
+}
+.login .modal .modal-2 .modal-content .modal-body .line .spical{
+    border: 2px solid #f00;
+}
+.login .modal-body #btnmodal3{
+    width: 345px;
+    height: 56px;
+    background-color: #FBB03B;
+    border: 0;
+    border-radius: 25px;
+    font-size: 13px;
+    font-weight: 600;
+    color: #000000;
+}
+.btn-phone input{
+    width: 345px;
+    height: 56px;
+    border: 2px solid #D8D8D8;
+    border-radius: 25px;
+    margin-bottom: 1rem;
+    padding: 0 2.5rem;
+    font-size: 13px;
+    font-weight: 400;
+    color: #808080;
+}

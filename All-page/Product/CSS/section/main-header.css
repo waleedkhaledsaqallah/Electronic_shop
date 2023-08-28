@@ -1,0 +1,43 @@
+
+.main-header .home a{
+    color: #B2B2B2;
+    font-size: 13px;
+    font-weight: 400;
+    transition: 0.7s;
+}
+.main-header .home a:hover{
+    color: #000000;
+}
+.main-header .home a i{
+    font-size: 20px;
+}
+.main-header .home a .x{
+    margin: 16px;
+}
+
+.main-header .home a span{
+    color: #000000;
+    font-size: 13px;
+    font-weight: 400;
+}
+.main-header .transport h4{
+    color: #000000;
+    font-size: 12px;
+    font-weight: 600;
+}
+.main-header .transport h5{
+    color: #000000;
+    font-size: 12px;
+    font-weight: 300;
+}
+.main-header .transport{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 27px;
+    padding-top: 2.3rem;
+}
+.main-header .transport img{
+    width: 18px;
+    height: 13.01px;
+}

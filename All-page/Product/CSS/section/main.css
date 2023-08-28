@@ -1,0 +1,161 @@
+
+.main .small-img img{
+    width: 97px;
+    height: 97px;
+    display: block;
+    padding: 0.2rem;
+    cursor: pointer;
+}
+.main .big-img img{
+    width: 476px ;
+    height: 476px ;
+}
+.main .text-main{
+    padding-left: 5rem;
+}
+.main .text-main h5{
+    width: 49px;
+    height: 30px;
+    background-color: #FF0000;
+    font-size: 12px;
+    color: #FFFFFF;
+    font-weight: 600;
+    border-radius: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.main .text-main h2{
+    font-size: 30px;
+    font-weight: 300;
+    color: #000000;
+    padding-top: 0.8rem;
+}
+.main .text-main h3{
+    font-size: 30px;
+    font-weight: 400;
+    font-size: 30px;
+    color: #FF0000;
+    word-spacing: 4.4rem;
+}
+.main .text-main h3 span{
+    color: #CECECE;
+    text-decoration: line-through;
+}
+.main .text-main h4{
+    padding: 3.6rem 0 0.8rem;
+    font-size: 13px;
+    font-weight: 300;
+    color: #000000;
+}
+
+
+.main .colors .BG{
+    width: 43px;
+    height: 43px;
+    background-color: #ffffff;
+    cursor: pointer;
+}
+
+.main .colors .black{
+    width: 25px;
+    height: 25px;
+    background-color: #000000;
+    
+}
+.main .colors .yellow{
+    width: 25px;
+    height: 25px;
+    background-color: #FFE3B7;
+}
+.main .colors .blue{
+    width: 25px;
+    height: 25px;
+    background-color: #2900FF;
+}
+.main .colors .white{
+    width: 25px;
+    height: 25px;
+    background-color: #FFFFFF;
+}
+.main .size select{
+    width: 184px !important;
+    height: 49px !important;
+    background-color: #ffffff;
+    border-radius: 25px;
+    font-size: 13px;
+    font-weight: 400;
+    color: #AAAAAA !important;
+    border-color: #AAAAAA;
+    cursor: pointer;
+}
+
+.math{
+    width:130px;
+    height: 49px;
+    
+}
+.math button{
+    background-color: #ffffff;
+    border: 0;
+}
+.main .Quantity a{
+    width: 189px;
+    height: 49px;
+    background-color: #FBB03B;
+    font-size: 13px;
+    font-weight: 600;
+    color: #000000;
+    text-transform: uppercase;
+    transition: 0.5s;
+}
+.main .Quantity a:hover{
+    background-color: #ffffff;
+    border: 1px solid #FBB03B;
+}
+
+.main .house{
+    width: 11.5rem;
+}
+.main .house h4{
+    font-size: 13px;
+    font-weight: 400;
+    color: #CECECE;
+}
+
+.main .house h2{
+    font-size: 12px;
+    font-weight: 500;
+    color: #000000;
+    letter-spacing: 0.2rem;
+    padding-top: 4.2rem;
+}
+
+/* Responsive */
+@media (max-width:992px){
+    .main .pictures{
+        display: block !important;
+    }
+    .main .pictures .big-img img{ 
+        width: 100% !important;
+        object-fit: cover;
+    }
+    .main .pictures .text-main{ 
+        padding-left: 2rem !important;
+        }
+    .main .pictures .text-main h5:nth-child(1){ 
+        display: none
+    }
+    .main .pictures .text-main h2:nth-child(2){ 
+        font-size: 15px;
+        font-weight: 500;
+        color: #000000;
+        letter-spacing: 0.2rem;
+        padding-top: 4.2rem;
+    }
+    .main .pictures .text-main .size h4:nth-child(1){ 
+        display: inline-block;
+        margin-right: 0.8rem;
+        }
+};

@@ -1,0 +1,123 @@
+
+.shoppng{
+ padding-bottom: 1.8rem; 
+     border-bottom: 2px solid #E5E5E5;
+}
+.delivary h2{
+    font-size: 20px;
+    font-weight: 600;
+    color: #000000;
+}
+.delivary .fast-delivary i.bi{
+    width: 36px;
+    height: 36px;
+    background-color: #FBB03B;
+    border-radius: 50%;
+}
+
+ .delivary .fast-delivary i.fa-thin{
+    color: #D8D8D8;
+    font-size: 1.2rem;
+}
+
+.delivary .fast-delivary .line{
+    width: 70px;
+    border: 1px solid #EEEEEE;
+}
+ .about-shopping h3{
+    font-size: 14px;
+    font-weight: 400;
+    color: #C1C1C1;
+} 
+.about-shopping .card{
+    margin-top: 2.3rem;
+}
+
+ .about-shopping .card img{ 
+    width: 70px;
+    height: 70px;
+}
+.about-shopping .card .text-card h2{
+    font-size: 16px;
+    font-weight: 600;
+    color: #000000;
+}
+ .about-shopping .card .text-card h3{
+    font-size: 13px;
+    font-weight: 300;
+    color: #C4C4C4;
+    margin-top: 0.7rem;
+}
+
+ .about-shopping .color h2{
+    font-size: 14px;
+    font-weight: 400;
+    color: #000000;
+    margin-top: 3rem;
+}
+
+ .about-shopping .size h2{
+    font-size: 14px;
+    font-weight: 400;
+    margin-top: 3rem;   
+}
+.about-shopping .Price h2{
+    font-size: 16px;
+    font-weight: 600;
+    color: #000000;
+    margin-top: 3rem;   
+}
+.about-shopping .delete{
+    font-size: 1.8rem;
+    cursor: pointer;
+}
+
+.to-continue h3{
+    font-size: 14px;
+    font-weight: 600;
+    color: #000000;
+}
+.footer-Cart .CHECKOUT form{
+    position: relative;
+    margin-right: 0.3rem;    
+}
+.footer-Cart .CHECKOUT form input{
+    width: 315px;
+    height: 49px;
+    border: 1px solid #D8D8D8;                                                                                                                                      
+    border-radius: 25px;
+    font-size: 13px;
+    font-weight: 400;
+    color: #ABABAB;
+    padding-left: 2rem;
+}
+.footer-Cart .CHECKOUT form button{
+    position: absolute;
+    left: 80%;
+    top: 20%;
+    background-color: transparent;
+    border: 0;
+    color: #B5B5B5;
+}
+.footer-Cart .CHECKOUT .Total-cost h3{
+    font-size: 16px;
+    font-weight: 300;
+    color: #000000;
+}
+.footer-Cart .CHECKOUT .Total-cost h2{
+    font-size: 16px;
+    font-weight: 600;
+    color: #000000;
+}
+.footer-Cart .CHECKOUT .Total-cost button{
+    width: 173.5px;
+    height: 49px;
+    background-color: #FBB03B;
+    border: 0;
+    border-radius: 25px;
+    font-size: 13px;
+    font-weight: 600;
+    color: #000000;
+    margin-left: 1.5rem;
+
+}

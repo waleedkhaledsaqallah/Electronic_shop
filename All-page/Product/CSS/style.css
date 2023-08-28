@@ -1,0 +1,10 @@
+@import './section/reset.css';
+@import './section/header.css';
+@import './section/main-header.css';
+@import './section/main.css';
+@import './section/nav-&-tabe.css';
+@import './section/pic.moving.css';
+@import './section/footer.css';
+@import './section/menu.css';
+@import './section/shopping-cart.css';
+@import './section/login.css'
